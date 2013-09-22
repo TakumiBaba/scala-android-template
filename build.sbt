@@ -1,3 +1,3 @@
 android.Plugin.androidBuild
 
-name := "hogefuga"
+name := "android tempalte for scala"
